@@ -1,0 +1,11 @@
+c:\users\alam\documents\visual studio 2015\Projects\usedCarDealer\usedCarDealer\bin\Debug\usedCarDealer.exe.config
+c:\users\alam\documents\visual studio 2015\Projects\usedCarDealer\usedCarDealer\bin\Debug\usedCarDealer.exe
+c:\users\alam\documents\visual studio 2015\Projects\usedCarDealer\usedCarDealer\bin\Debug\usedCarDealer.pdb
+c:\users\alam\documents\visual studio 2015\Projects\usedCarDealer\usedCarDealer\obj\Debug\usedCarDealer.csprojResolveAssemblyReference.cache
+c:\users\alam\documents\visual studio 2015\Projects\usedCarDealer\usedCarDealer\obj\Debug\usedCarDealer.menu.resources
+c:\users\alam\documents\visual studio 2015\Projects\usedCarDealer\usedCarDealer\obj\Debug\usedCarDealer.buyVehicle.resources
+c:\users\alam\documents\visual studio 2015\Projects\usedCarDealer\usedCarDealer\obj\Debug\usedCarDealer.Properties.Resources.resources
+c:\users\alam\documents\visual studio 2015\Projects\usedCarDealer\usedCarDealer\obj\Debug\usedCarDealer.sellVehicle.resources
+c:\users\alam\documents\visual studio 2015\Projects\usedCarDealer\usedCarDealer\obj\Debug\usedCarDealer.csproj.GenerateResource.Cache
+c:\users\alam\documents\visual studio 2015\Projects\usedCarDealer\usedCarDealer\obj\Debug\usedCarDealer.exe
+c:\users\alam\documents\visual studio 2015\Projects\usedCarDealer\usedCarDealer\obj\Debug\usedCarDealer.pdb
